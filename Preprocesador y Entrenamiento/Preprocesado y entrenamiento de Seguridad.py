@@ -90,7 +90,7 @@ data_used.info()
 
 
 data_used.to_csv("SeguConTitulosPre.csv")
-
+#Este archivo se modifica en excel  y queda con el nombre de SeguSinTitulosPre2.csv  para realizar el entrenamiento
 
 # In[3]:
 
